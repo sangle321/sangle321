@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 I am a AI Developer from VietNam <img src="https://camo.githubusercontent.com/02433dd0de81c4a32068f4f05d9bfefde6fc555019b013f900f6028c09755006/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f766965746e616d2d63697263756c61722e706e67" width="30">
-- :man_student: Study Information Technology at Hue University of Science 
+- :man_student: Studied Information Technology at Hue University of Science 
 
 - :telescope:  Major in Computer Science.
 
