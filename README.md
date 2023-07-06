@@ -21,7 +21,7 @@ I am a AI Developer from VietNam <img src="https://camo.githubusercontent.com/02
 
 - :telescope:  Major in Computer Science.
 
-- :seedling:  Interested in AI, Computer Vision, NLP.
+- :seedling:  Interested in AI, Computer Vision, NLP, Django.
 
 - :mailbox:How to reach me: 🔗
 
